@@ -1,0 +1,44 @@
+.kinan{
+    color: whitesmoke;
+    background-color: rgba(216, 116, 136, 0.808);
+    width: 80%;
+    padding: 120px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url(background/64\ Ideas\ for\ laptop\ wallpaper\ desktop\ wallpapers\ ideas.jpg);
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+h2{
+    color : whitesmoke;
+    font-family: helvetica;
+    font-size: 35px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+}
+.ig{
+    background-image: url(background/instagram-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 25px ;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.line{
+    background-image: url(background/line-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 25px ;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.wa{
+    background-image: url(background/whatsapp-logo-variant.png);
+    background-repeat: no-repeat;
+    padding-left: 25px ;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+

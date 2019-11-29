@@ -1,0 +1,31 @@
+.kinan{
+    color: whitesmoke;
+    background-color: rgba(216, 116, 136, 0.808);
+    width: 80%;
+    padding: 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url(background/64\ Ideas\ for\ laptop\ wallpaper\ desktop\ wallpapers\ ideas.jpg);
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+img{
+    border:3px solid rgb(209, 145, 209);
+    margin: 20px;
+    margin-left: 49px;
+}
+video{
+    border:3px solid rgb(209, 145, 209);
+    margin: 20px;
+    margin-left: 49px;
+}
+h1{
+    color:white;
+    font-size: 35px;
+    font-family: helvetica;
+    margin:center;
+}
